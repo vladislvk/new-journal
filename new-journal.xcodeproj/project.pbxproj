@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		E1E215072CADBFE00017115D /* new_journalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E215062CADBFE00017115D /* new_journalApp.swift */; };
 		E1E215092CADBFE00017115D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E215082CADBFE00017115D /* ContentView.swift */; };
-		E1E2150B2CADBFE00017115D /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E2150A2CADBFE00017115D /* Item.swift */; };
 		E1E2150D2CADBFE10017115D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1E2150C2CADBFE10017115D /* Assets.xcassets */; };
 		E1E215102CADBFE10017115D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1E2150F2CADBFE10017115D /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		E1E215032CADBFE00017115D /* new-journal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "new-journal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1E215062CADBFE00017115D /* new_journalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new_journalApp.swift; sourceTree = "<group>"; };
 		E1E215082CADBFE00017115D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E1E2150A2CADBFE00017115D /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		E1E2150C2CADBFE10017115D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1E2150F2CADBFE10017115D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				E1E215062CADBFE00017115D /* new_journalApp.swift */,
 				E1E215082CADBFE00017115D /* ContentView.swift */,
-				E1E2150A2CADBFE00017115D /* Item.swift */,
 				E1E2150C2CADBFE10017115D /* Assets.xcassets */,
 				E1E2150E2CADBFE10017115D /* Preview Content */,
 			);
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1E215092CADBFE00017115D /* ContentView.swift in Sources */,
-				E1E2150B2CADBFE00017115D /* Item.swift in Sources */,
 				E1E215072CADBFE00017115D /* new_journalApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
